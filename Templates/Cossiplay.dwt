@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cossieplay</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+@import url("../Cossieplay.css");
+</style>
+</head>
+
+<header id="header">Cossieplay</header>
+
+<nav>
+ <table border="10" bordercolor="66FFCC" cellpadding="0,0,0" style="width:85%;margin:0 auto" align="center">
+   <tbody>
+     <tr>
+       <td><a href="../Home.html">Home</a></td>
+       <td><a href="../Information.html">Information</a></td>
+       <td><a href="../Announcements.html">Announcements</a></td>
+       <td><a href="../Cosplay Clothes.html">Cosplay Clothes</a></td>
+       <td><a href="../party guidelines.html">Party guidelines</a></td>
+       <td><a href="../About us.html">About us</a></td>
+     </tr>
+   </tbody>
+ </table>
+</nav>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<h3></h3>
+<!-- TemplateEndEditable -->
+<footer align="center"> © 2016 Cai Linfu</footer>
+</html>

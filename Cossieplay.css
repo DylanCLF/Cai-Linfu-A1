@@ -1,0 +1,185 @@
+@charset "utf-8";
+#header{
+	Background-color: #66CCFF;
+	position: relative;
+	length: auto;
+	font-size: 60px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-weight: bold;
+	text-align: center;
+	width: 85%;
+	left: 7.5%;
+	}
+#heading{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: xx-large;
+	padding-left: 7.5%;
+	font-weight: 900;
+	}
+	
+#p1{
+	padding-left: 7.5%;
+	padding-right: 40%;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: x-large;
+}
+
+#img{
+	position: relative;
+	width: 30%;
+	height: auto;
+	float: right;
+	right: 7.5%;
+	top: 70px;
+}
+
+#body{background-color:#D7F9FF;
+}
+
+#informaton_heading{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: xx-large;
+	padding-left: 30%;
+	font-weight: 900;
+	}
+
+#informaton_p{
+	font-size: x-large;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	padding-left: 25%;
+	padding-right: 30%;
+	}
+	
+#information_image1{
+	position: relative;
+	width: 20%;
+	height: auto;
+	float: right;
+	right: 7.5%;
+	top: 70px;
+}
+
+#information_image2{
+	position: relative;
+	width: 14%;
+	height: auto;
+	float: left;
+	left: 7.5%;
+	top: 70px;
+	}
+	
+#announcements_heading{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: xx-large;
+	padding-left: 7.5%;
+	font-weight: 900;
+	}
+	
+#announcements_p{
+	padding-left: 7.5%;
+	padding-right: 35%;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: xx-large;
+	}
+	
+#announcements_img{
+	position: relative;
+	width: 25%;
+	height: auto;
+	float: right;
+	right: 7.5%;
+	top: 60px;
+	}
+
+#table{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
+	font-size: x-large;
+	text-align: center;
+	margin-left: 7.5%;
+	margin-top: 30px;
+	}
+	
+#clothes_img1{
+	position: relative;
+	width: 20%;
+	height: auto;
+	float: right;
+	right: 7.5%;
+	bottom: 460px;
+	}
+	
+#clothes_img2{
+	position: relative;
+	width: 20%;
+	height: auto;
+	left: 72.5%;
+	bottom: 233px;
+	}
+	
+#clothes_img3{
+	position: relative;
+	width: 20%;
+	height: auto;
+	float: right;
+	right: 7.5%;
+	bottom: 460px;
+	}
+	
+#clothes_img4{
+	position: relative;
+	width: 20%;
+	height: auto;
+	left: 32%;
+	bottom: 233px;
+	}
+	
+#party_heading{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: xx-large;
+	font-weight: 900;
+	padding-left:7.5%;
+	}
+	
+#party_body{
+	padding-left: 7.5%;
+	padding-right: 35%;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: x-large;
+	}
+	
+#party_img{
+	position: relative;
+	width: 25%;
+	height: auto;
+	float: right;
+	right: 7.5%;
+	top: 10px;
+	}
+	
+#about_heading1{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: xx-large;
+	font-weight: 900;
+	padding-left: 7.5%
+	}
+	
+#about_heading2{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: x-large;
+	font-weight: 700;
+	padding-left: 7.5%;
+	}
+	
+#about_p{
+	padding-left: 7.5%;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: x-large;
+	}
+	
+#about_img{
+	width: 30%;
+	height: 0%;
+	float: right;
+	padding-right: 7.5%;
+	}
